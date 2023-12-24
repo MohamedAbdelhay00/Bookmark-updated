@@ -1,0 +1,67 @@
+h1 {
+  font-family: "Pacifico", cursive;
+  font-size: 60px;
+  color: #ed5ab3;
+  -webkit-text-stroke: 1px #1640d6;
+  font-weight: bolder;
+}
+
+h2 {
+  font-family: "Righteous", sans-serif;
+  font-size: 25px;
+  text-align: center;
+  background: -webkit-linear-gradient(#1640d6, #ed5ab3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.form-div {
+  margin: 5% 10%;
+  padding: 3% 0;
+  border: #000 dotted 2px;
+  border-right: 0px;
+  border-left: 0px;
+}
+
+.s-btn{
+    background-color: #1640D6;
+    color: #fff;
+    border: #1640D6 1px solid;
+    border-radius: 5px;
+    transition: all .3s;
+}
+.s-btn:hover{
+    border: #1640D6 1px solid;
+    color: #1640D6;
+    background-color: #fff;
+}
+
+.v-btn{
+    background-color: #1640D6;
+    color: #fff !important;
+}
+
+.v-btn:hover a{
+    background-color: transparent;
+    color: #1640D6 !important;
+}
+
+.d-btn{
+    background-color: #ED5AB3;
+    color: #fff;
+}
+
+.d-btn:hover{
+    background-color: transparent;
+    color: #ED5AB3;
+}
+
+.u-btn{
+    background-color: #FFCD4B;
+    color: #fff;
+}
+
+.u-btn:hover{
+    background-color: transparent;
+    color: #FFCD4B;
+}
